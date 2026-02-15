@@ -1,0 +1,22 @@
+{
+  "devFiles": [],
+  "ampDevFiles": [],
+  "polyfillFiles": [
+    "static/chunks/b34d7_next_dist_build_polyfills_polyfill-nomodule.js"
+  ],
+  "lowPriorityFiles": [],
+  "rootMainFiles": [
+    "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_da1687b2._.js",
+    "static/chunks/b34d7_next_dist_compiled_react-dom_7bd9f0ce._.js",
+    "static/chunks/b34d7_next_dist_compiled_react-server-dom-turbopack_f338e0cc._.js",
+    "static/chunks/b34d7_next_dist_compiled_next-devtools_index_4f85f9b9.js",
+    "static/chunks/b34d7_next_dist_compiled_43fd3b03._.js",
+    "static/chunks/b34d7_next_dist_client_53f6bb4a._.js",
+    "static/chunks/b34d7_next_dist_7148d6bf._.js",
+    "static/chunks/cb401_@swc_helpers_cjs_c63d9422._.js",
+    "static/chunks/2-d-platformer-game_a0ff3932._.js",
+    "static/chunks/turbopack-2-d-platformer-game_032f8ec6._.js"
+  ],
+  "pages": {},
+  "ampFirstPages": []
+}
